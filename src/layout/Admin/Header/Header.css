@@ -1,0 +1,13 @@
+.admin__header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+.admin__header ul {
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
